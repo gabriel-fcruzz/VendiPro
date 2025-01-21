@@ -1,5 +1,5 @@
 <h1>VendiPro</h1>
-  <p><a href="https://www.vendipro.com">www.vendipro.com</a></p>
+  <p>O VendiPro é um website e app desenvolvido para facilitar o controle de caixa, produtos no estoque e fechamento de caixa. O projeto ainda não foi finalizado e por isso não possui persistência de dados e hierarquia de estoque, bem como a finalização da compra. Este é um projeto de faculdade e cumpriu com todas as necessidades impostas pelo prefessor e mentor do curso, recebendo nota máxima na matéria pois além de ter todos os requisitos para nota máxima adicionou funcionalidades adiciones além do esperado. </p>
 
   <h2>Índice</h2>
   <ul>
