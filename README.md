@@ -1,3 +1,5 @@
+<h1>Versão em Português</h1>
+
 <h1>VendiPro</h1>
   <p>O VendiPro é um website e app desenvolvido para facilitar o controle de caixa, produtos no estoque e fechamento de caixa. O projeto ainda não foi finalizado e por isso não possui persistência de dados e hierarquia de estoque, bem como a finalização da compra. Este é um projeto de faculdade e cumpriu com todas as necessidades impostas pelo prefessor e mentor do curso, recebendo nota máxima na matéria pois além de ter todos os requisitos para nota máxima adicionou funcionalidades adiciones além do esperado. </p>
 
@@ -41,7 +43,7 @@
     <li>Gabriel Schimidth</li>
   </ul>
 
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////ENGLISH VERSION/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+<h1>English Version</h1>
 
 <h1>VendiPro</h1>
 <p>VendiPro is a website and app designed to simplify cash management, product inventory, and cash closing. The project is not yet finalized, so it does not include data persistence, inventory hierarchy, or purchase completion. This is a college project that met all the requirements set by the professor and course mentor, receiving the highest grade in the subject because, in addition to meeting all the maximum grade requirements, it included additional features beyond what was expected.</p>
