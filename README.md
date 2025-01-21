@@ -40,3 +40,46 @@
     <li>Gabriel Cruz</li>
     <li>Gabriel Schimidth</li>
   </ul>
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////ENGLISH VERSION/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+<h1>VendiPro</h1>
+<p>VendiPro is a website and app designed to simplify cash management, product inventory, and cash closing. The project is not yet finalized, so it does not include data persistence, inventory hierarchy, or purchase completion. This is a college project that met all the requirements set by the professor and course mentor, receiving the highest grade in the subject because, in addition to meeting all the maximum grade requirements, it included additional features beyond what was expected.</p>
+
+<h2>Index</h2>
+<ul>
+  <li><a href="#about-the-project">About the Project</a></li>
+  <li><a href="#features">Features</a></li>
+  <li><a href="#technologies-used">Technologies Used</a></li>
+  <li><a href="#contributors">Contributors</a></li>
+</ul>
+
+<h2 id="about-the-project">About the Project</h2>
+<p><strong>VendiPro</strong> is a complete payment and product database management system designed to function as a cash register system for supermarkets, stores, and commercial establishments. It was designed to provide an integrated solution for inventory control, sales management, and financial reporting, simplifying point-of-sale (POS) operations and offering an optimized experience for operators and customers.</p>
+
+<h2 id="features">Features</h2>
+<ul>
+  <li>Product registration and management</li>
+  <li>Sales processing and payment integration</li>
+  <li>Real-time inventory control</li>
+  <li>Generation of sales and cash flow reports</li>
+  <li>Transaction history and cash management</li>
+  <li>User management and access permissions</li>
+  <li>Integration with barcode scanners</li>
+  <li>User-friendly interface for cashiers</li>
+</ul>
+
+<h2 id="technologies-used">Technologies Used</h2>
+<ul>
+  <li>Programming Language: React.js, React Native</li>
+  <li>Database:</li>
+  <li>Frontend: React.js, React Native, CSS, HTML5</li>
+  <li>Backend:</li>
+</ul>
+
+<h2 id="contributors">Contributors</h2>
+<ul>
+  <li>Giovani Marlon</li>
+  <li>Gabriel Cruz</li>
+  <li>Gabriel Schimidth</li>
+</ul>
